@@ -1,9 +1,8 @@
 # wow_d3c_weakauras
 
-<img src="d3c_Preview_v0.1.png"/>
-<p>Screenshot & weakauras still with original textures.</p>
+<img src="d3c_Preview_v0.2.png"/>
 
-<p>V2 textures are the proper size to fit in the frame, so they won't need to be resized anymore.  Though orb texture hasn't been modified. Reisze to your liking.  Frame texture now includes "spike" separators for abilities and buffs (if you want to recreate that console ui).  7 (de)buffs & abilities should fit on one line. </p>
+<p>V2 textures are the proper size to fit in the frame, but weakauras still wants things to be resized.  Though orb texture hasn't been modified. Reisze to your liking.  Frame texture now includes "spike" separators for abilities and buffs (if you want to recreate that console ui).  7 (de)buffs & abilities should fit on one line. </p>
 
 <h2>To-do:</h2>
 
