@@ -11,9 +11,10 @@
   <li>Impliment tooltips for player & player xp</li>
   <li>Enable right click functionality on player frame(energy? Health? Can weakauras even do that?)</li>
   <li>Action bar 1 abilities 1-7 as part of frame (or leave everyone to use bartender?)</li>
-  <li>Turn into standalone addon</li>
   <li>Learn to display fonts better</li>
   <li>Maybe add a texture for frozen xp?</li>
+  <li>Turn into standalone addon, free from weakauras.</li>
+  <li>Get overwhelmed and give up before finishing standalone addon.</li>
 </ul></p>
 
 <h2>Questions</h2>
