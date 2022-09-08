@@ -8,17 +8,18 @@
 <h2>To-do:</h2>
 
 <p><ul>
-<li>Impliment tooltips for player & player xp</li>
-<li>Enable right click functionality on player frame(energy? Health? Can weakauras even do that?)</li>
-<li>Action bar 1 abilities 1-7 as part of frame (or leave everyone to use bartender?)</li>
-<li>Turn into standalone addon</li>
-<li>Maybe add a texture for frozen xp?</li>
+  <li>Impliment tooltips for player & player xp</li>
+  <li>Enable right click functionality on player frame(energy? Health? Can weakauras even do that?)</li>
+  <li>Action bar 1 abilities 1-7 as part of frame (or leave everyone to use bartender?)</li>
+  <li>Turn into standalone addon</li>
+  <li>Learn to display fonts better</li>
+  <li>Maybe add a texture for frozen xp?</li>
 </ul></p>
 
 <h2>Questions</h2>
 
 <p>
 <ul>
-<li>Can weakauras take over buff display?</li>
-<li>Can weakauras show action bar elements, or do I need to hardcode <em>my</em> abilities?</li>
+  <li>Can weakauras take over buff display?</li>
+  <li>Can weakauras show action bar elements, or do I need to hardcode <em>my</em> abilities?</li>
 </ul></p>
